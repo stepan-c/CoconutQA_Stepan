@@ -1,11 +1,3 @@
-.venv/
-.DS_Store
-/venv/
-__pycache__/
-*.db
-*.xlsx
-*.log
-*.csv
-.token
-.do_not_push_me.py
-.test_push.py
+.venv
+do_not_push_me.py
+test_push.py
