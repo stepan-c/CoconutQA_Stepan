@@ -1,3 +1,4 @@
 .venv/
+.idea/
 do_not_push_me.py
 test_push.py
